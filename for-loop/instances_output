@@ -3,7 +3,7 @@
     "ami" = "ami-09c813fb71547fc4f"
     "arn" = "arn:aws:ec2:us-east-1:565881944517:instance/i-0e02fd2e16ee83682"
     "associate_public_ip_address" = true
-    "availability_zone" = "us-east-1b"
+    "availability_" = "us-east-1b"
     "capacity_reservation_specification" = tolist([
       {
         "capacity_reservation_preference" = "open"
@@ -133,7 +133,7 @@
     "ami" = "ami-09c813fb71547fc4f"
     "arn" = "arn:aws:ec2:us-east-1:565881944517:instance/i-0d2b22822e96752eb"
     "associate_public_ip_address" = true
-    "availability_zone" = "us-east-1b"
+    "availability_" = "us-east-1b"
     "capacity_reservation_specification" = tolist([
       {
         "capacity_reservation_preference" = "open"
